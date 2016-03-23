@@ -153,9 +153,6 @@ td.rowtargets > span.listarea
 
 /* Raw form style */
 
-body.iframe {
-  margin: 0px;
-}
 
 #raw_script_form fieldset {
   border: 1px solid #ccc;
